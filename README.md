@@ -1,5 +1,20 @@
 # Streamlit Image Text Extractor
 
+github:
+https://github.com/pleabargain/streamlit-image-processor
+
+
+streamlit:
+https://pleabargain-streamlit-image-processor-app-fncmav.streamlit.app/
+
+
+video:
+https://www.youtube.com/watch?v=-eGwRqlEtCc
+
+# motivation
+Few people like working with receipts so I thought I'd make a simple tool to help with that.
+
+
 A powerful web application built with Streamlit and EasyOCR that allows users to extract text from images. Upload single or multiple images and get the extracted text in downloadable format.
 
 ## 🌟 Features
